@@ -1,0 +1,1 @@
+This project controlls a WiFi enabled RC car using HTTP protocol. An android app with a simple interface is used to control car.
